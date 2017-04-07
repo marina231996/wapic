@@ -1,0 +1,20 @@
+{
+  "name": "wapic",
+  "authors": [
+    "marina231996 <jubasik23@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "tajem": "djvang/tajem"
+  }
+}

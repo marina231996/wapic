@@ -1,0 +1,14 @@
+{
+  "name": "tajem",
+  "homepage": "https://github.com/djvang/tajem",
+  "_release": "4224c83a02",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "4224c83a02c4564433a1103d8ae78f683a580595"
+  },
+  "_source": "https://github.com/djvang/tajem.git",
+  "_target": "*",
+  "_originalSource": "djvang/tajem",
+  "_direct": true
+}
