@@ -1,0 +1,33 @@
+html {
+	box-sizing: border-box;
+}
+body{
+	padding: 0;
+	margin: 0;
+}
+*,
+*:before,
+*:after  {
+	box-sizing: inherit;
+}
+.container{
+  margin: 0em auto;
+  padding: 0;
+  width:@container-widht;
+}
+h2{
+	position: relative;
+	text-align: center;
+	&::after{
+		position: absolute;
+		left: 50.5%;
+		bottom: -30px;
+		margin-left: -40px;
+		content: '';
+		display: block;
+		height: 1px;
+		width: 65px;
+		background-color: #6fb048;
+	}
+
+}
